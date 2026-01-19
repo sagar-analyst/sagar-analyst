@@ -12,7 +12,7 @@
 - **[Customer Travel Insights](https://github.com/sagar-analyst/Customer-Travel-Package-Analysis)** - Data cleaning, pivot analysis & reporting 
 
 ### 📈 GitHub Stats 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-analyst&show_icons=true&theme=algolia)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-analyst&show_icons=true&theme=radical)  
 ### 📫 Let's Connect 
 - 💼 LinkedIn: [www.linkedin.com/in/sagar-kondle-465323192]
 - 📧 Email: sagarkondle123@gmail.com
