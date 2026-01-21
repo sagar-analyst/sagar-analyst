@@ -6,10 +6,10 @@
 ### 🛠️ Tech Stack: `Python` `SQL` `Power BI` `Excel` `Pandas` `NumPy` `Matplotlib` `Statistics`  
 
 ### 📂 Featured Projects 
-- **[Retail Revenue Analysis SQL](https://github.com/sagar-analyst/sql-pizza-sales-analysis)** - Complex queries analyzing sales patterns and trends 
-- **[Telecom Churn Analysis](https://github.com/sagar-analyst/Telecom-Retention-Churn-Strategy)** - Python-based prediction using Pandas & visualization - 
-- **[Power BI Dashboard](https://github.com/sagar-analyst/Credit-Card-Risk-Portfolio-Analysis-using-Power-BI.)** - Interactive business metrics dashboard - 
-- **[Customer Travel Insights](https://github.com/sagar-analyst/Customer-Travel-Package-Analysis)** - Data cleaning, pivot analysis & reporting 
+- **[Retail Revenue Analysis](https://github.com/sagar-analyst/sql-pizza-sales-analysis)** - Complex queries analyzing sales patterns and trends 
+- **[Power BI Dashboard](https://github.com/sagar-analyst/Credit-Card-Risk-Portfolio-Analysis-using-Power-BI.)** - Interactive business metrics dashboard 
+- **[Customer Travel Insights](https://github.com/sagar-analyst/Customer-Travel-Package-Analysis)** - Data cleaning, pivot analysis & reporting
+- **[Telecom Churn Analysis](https://github.com/sagar-analyst/Telecom-Retention-Churn-Strategy)** - Python-based prediction using Pandas & visualization 
 
 ### 📈 GitHub Stats 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-analyst&show_icons=true&theme=tokyonight)  
