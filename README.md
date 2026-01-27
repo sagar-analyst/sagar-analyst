@@ -7,7 +7,7 @@
 
 ### 📂 Featured Projects 
 - **[Retail Revenue Analysis](https://github.com/sagar-analyst/sql-pizza-sales-analysis)** - Complex queries analyzing sales patterns and trends 
-- **[Power BI Dashboard](https://github.com/sagar-analyst/Credit-Card-Risk-Portfolio-Analysis-using-Power-BI.)** - Interactive business metrics dashboard 
+- **[Credit Card Risk Analysis](https://github.com/sagar-analyst/Credit-Card-Risk-Portfolio-Analysis-using-Power-BI.)** - Interactive business metrics dashboard 
 - **[Customer Travel Insights](https://github.com/sagar-analyst/Customer-Travel-Package-Analysis)** - Data cleaning, pivot analysis & reporting
 - **[Telecom Churn Analysis](https://github.com/sagar-analyst/Telecom-Retention-Churn-Strategy)** - Python-based prediction using Pandas & visualization 
 
