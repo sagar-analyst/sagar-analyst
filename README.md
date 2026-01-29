@@ -6,10 +6,10 @@
 ### 🛠️ Tech Stack: `Python` `SQL` `Power BI` `Excel` `Pandas` `NumPy` `Matplotlib` `Statistics`  
 
 ### 📂 Featured Projects 
-- **[Retail Revenue Analysis](https://github.com/sagar-analyst/sql-pizza-sales-analysis)** - Complex queries analyzing sales patterns and trends 
-- **[Credit Card Risk Analysis](https://github.com/sagar-analyst/Credit-Card-Risk-Portfolio-Analysis-using-Power-BI.)** - Interactive business metrics dashboard 
-- **[Customer Travel Insights](https://github.com/sagar-analyst/Customer-Travel-Package-Analysis)** - Data cleaning, pivot analysis & reporting
-- **[Telecom Churn Analysis](https://github.com/sagar-analyst/Telecom-Retention-Churn-Strategy)** - Python-based prediction using Pandas & visualization 
+- **[Retail Revenue Analysis](https://github.com/sagar-analyst/sql-pizza-sales-analysis)** - Complex queries analyzing sales patterns and trends for pizzza store.
+- **[Credit Card Risk Analysis](https://github.com/sagar-analyst/Credit-Card-Risk-Portfolio-Analysis-using-Power-BI.)** - Interactive business metrics dashboard.
+- **[Customer Travel Insights](https://github.com/sagar-analyst/Customer-Travel-Package-Analysis)** - Data cleaning, pivot analysis & reporting for travel product analysis.
+- **[Telecom Churn Analysis](https://github.com/sagar-analyst/Telecom-Retention-Churn-Strategy)** - Python-based churn analysis using Pandas,Sql for validation,BI for Dashboard.
   
 ### 📫 Let's Connect 
 - 💼 LinkedIn: [www.linkedin.com/in/sagar-kondle-465323192]
